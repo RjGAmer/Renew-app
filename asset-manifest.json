@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Renew-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Renew-app/static/js/main.586dee6b.js",
+    "static/js/453.2d9ac3c2.chunk.js": "/Renew-app/static/js/453.2d9ac3c2.chunk.js",
+    "index.html": "/Renew-app/index.html",
+    "main.e6c13ad2.css.map": "/Renew-app/static/css/main.e6c13ad2.css.map",
+    "main.586dee6b.js.map": "/Renew-app/static/js/main.586dee6b.js.map",
+    "453.2d9ac3c2.chunk.js.map": "/Renew-app/static/js/453.2d9ac3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.586dee6b.js"
+  ]
+}
